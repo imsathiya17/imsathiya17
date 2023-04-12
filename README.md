@@ -1,10 +1,6 @@
-![](images/banner.png)
+![](images/https://source.unsplash.com/random/1280x500)
 
 <!-- Add a cover image to your GitHub profile -->
-<!-- Add a banner to your GitHub profile -->
-<div align="center">
-  <img src="https://source.unsplash.com/random/1280x300" alt="banner" />
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imsathiya17)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imsathiya17) 
