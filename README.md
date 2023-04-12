@@ -19,11 +19,11 @@ I am a true believer in the power of technology to transform industries and make
 In my free time, I enjoy listening to music, watching tennis matches, and following cricket tournaments. These hobbies help me to unwind and take my mind off work while also allowing me to stay connected to my interests outside of my career.
 
 
-Interested in UXUI, Blockchain, and Amazon Web Services.
+Interested in AI, Blockchain, and Cloud based technologies.
 
-- 🏢 &nbsp;Data Engineer, Full stack engineer &  Mentor
+- 🏢 &nbsp;Data engineer, Full stack engineer &  Mentor
 - 🌱 &nbsp;Currently learning Solidity & Rust.
-- 💬 &nbsp;I would be happy to help you learn Data engineering, API & Web development
+- 💬 &nbsp;I would be happy to help you learn Data engineering, Data quality, Data visualizations, API & Web development
 
 ## Open to
 
@@ -57,12 +57,3 @@ I work with different technologies and languages, but my favorites are **JavaScr
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;
 </p>
-
-## Recent articles
-
-- [Clean Architecture in ExpressJS Applications](https://merlino.agency/blog/clean-architecture-in-express-js-applications)
-- [A Step by Step Guide on How to Download a CSV File using Angular](https://merlino.agency/blog/a-step-by-step-guide-on-how-to-download-a-csv-file-using-angular)
-- [What is React JS? — An introduction to the "Whats & Whys" of React Library](https://hassib.hashnode.dev/what-is-react-js-an-introduction-to-the-whats-and-whys-of-react-library)
-- [What is JSON? — Everything you need to know about](https://hassib.hashnode.dev/what-is-json-everything-you-need-to-know-about)
-- [A Comprehensive Guide to String Methods of JavaScript](https://hassib.hashnode.dev/a-comprehensive-guide-to-string-methods-of-javascript)
-- [What is Node.js? — A beginner's introduction to the JavaScript in the Server](https://hassib.hashnode.dev/what-is-nodejs-a-beginners-introduction-to-the-javascript-in-the-server)
