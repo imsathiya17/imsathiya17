@@ -1,9 +1,9 @@
 ![](images/banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imsathiya17)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hassibmoddasser) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imsathiya17) 
 [![slack](https://img.shields.io/badge/slack-%231876F3.svg?style=flat&logo=slack&logoColor=white)](https://imsathiya17.slack.com/team/U052Q98MYJJ)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18576862/hassib-moddasser) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15348179/imsathiya17) 
 
 
 [![](https://visitcount.itsvg.in/api?id=imsathiya17&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
