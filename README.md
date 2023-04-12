@@ -10,31 +10,33 @@
 
 # Hi there, I'm Sathiya
 
-Results-oriented **Software Engineer** with a focus on design and implementation. Skilled in Agile processes, Back-end and Front-end development, and creating eCommerce applications. Over **four years of professional experience with international teams** building robust systems and scalable customer-focused products using cutting-edge technologies.
+I am a highly skilled and experienced data engineer and full-stack developer with over 12 years of experience. Throughout my career, I have worked on a variety of projects and have developed a deep expertise in designing and implementing robust solutions to complex problems. I am adept at working with a range of programming languages and frameworks, and have extensive experience in cloud computing and databases. 
 
-Passionate about **blogging** and have published numerous articles **ranked on the first page of Google**. Trying to be a valuable part of any team and believe in team success, growth, and rising together.
+I am extremely passionate about data engineering, designing & integrating user interfaces, API developement, Blockchain technologies and am always eager to learn more and stay up-to-date with the latest technologies and trends.
+
+I am a true believer in the power of technology to transform industries and make a positive impact on the world, and I am committed to using my skills and knowledge to contribute to this vision.
+
+In my free time, I enjoy listening to music, watching tennis matches, and following cricket tournaments. These hobbies help me to unwind and take my mind off work while also allowing me to stay connected to my interests outside of my career.
+
 
 Interested in UXUI, Blockchain, and Amazon Web Services.
 
-- 🏢 &nbsp;Software Engineer, Mentor, and Blogger
-- 🌱 &nbsp;Currently learning Next.js, Prisma, and GraphQL
-- 💬 &nbsp;I would be happy to help you learn web development
+- 🏢 &nbsp;Data Engineer, Full stack engineer &  Mentor
+- 🌱 &nbsp;Currently learning Solidity & Rust.
+- 💬 &nbsp;I would be happy to help you learn Data engineering, API & Web development
 
 ## Open to
 
 - Work
 - Mentorship
-- Blog writing
 - Freelance projects
-- Promotion oppurtunities
-- Sponsorships & paid video chats
 - Collaborations to build something great
 
-If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/hassibmoddasser) or email me
+If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/imsathiya17) or email me
 
 ## Tech Stack & Tools
 
-I work with many different technologies and languages, but my favorites are **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.
+I work with different technologies and languages, but my favorites are **JavaScript**, **Python**, **Node.js**, and **Express.js**.
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
