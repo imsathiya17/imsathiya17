@@ -1,13 +1,13 @@
 ![](images/banner.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassibmoddasser)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imsathiya17)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hassibmoddasser) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231876F3.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/hassibmo)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18576862/hassib-moddasser) 
 
-[![](https://visitcount.itsvg.in/api?id=hassibmoddasser&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=imsathiya17&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-# Hi there, I'm Hassib
+# Hi there, I'm Sathiya
 
 Results-oriented **Software Engineer** with a focus on design and implementation. Skilled in Agile processes, Back-end and Front-end development, and creating eCommerce applications. Over **four years of professional experience with international teams** building robust systems and scalable customer-focused products using cutting-edge technologies.
 
