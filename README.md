@@ -46,8 +46,7 @@ I work with different technologies and languages, but my favorites are **JavaScr
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" title="graphql" alt="graphql Logo" width="57" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" title="apollo" alt="apollo Logo" width="57" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" title="apollo graphql" alt="apollo Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;
 </p>
