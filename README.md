@@ -23,7 +23,7 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/imsath
 
 ## Tech Stack & Tools
 
-I work with different technologies and languages, but my favorites are **JavaScript**, **Python**.
+I work with different technologies and languages, but my favorites are **JavaScript** and **Python**.
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
