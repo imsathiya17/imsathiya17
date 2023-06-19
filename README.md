@@ -19,7 +19,7 @@ Interested in AI, Blockchain, and Cloud based technologies.
 - 🌱 &nbsp;Currently learning Solidity & Rust.
 - 💬 &nbsp;I would be happy to help you learn Data engineering, Data quality, Data visualizations, API & Web development
 
-If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/imsathiya17) or email me
+If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/imsathiya17) or [email me](imsathiya17@gmail.com)
 
 ## Tech Stack & Tools
 
