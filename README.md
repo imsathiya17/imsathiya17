@@ -1,7 +1,5 @@
 <!-- Add a cover image to your GitHub profile -->
 
-![](images/banner.png)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imsathiya17)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imsathiya17)
 
@@ -11,7 +9,7 @@
 
 I'm a skilled data engineer and full-stack developer with a passion for technology. I excel at designing robust solutions and working with various programming languages, frameworks, and databases. 
 
-Outside of work, I enjoy music, tennis, and cricket. I'm open to opportunities for work, mentorship, freelance projects, and collaborations.
+Outside of work, I enjoy music, tennis, and cricket. I'm open to opportunities for work, freelance projects, and collaborations.
 
 Interested in AI, Blockchain, and Cloud based technologies.
 
