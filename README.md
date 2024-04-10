@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=imsathiya17&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-# Hi there, I'm Sathiya
+# Hi there,
 
 I'm a skilled data engineer and full-stack developer with a passion for technology. I excel at designing robust solutions and working with various programming languages, frameworks, and databases. 
 
