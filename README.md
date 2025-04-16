@@ -1,8 +1,5 @@
 <!-- Add a cover image to your GitHub profile -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imsathiya17)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imsathiya17)
-
 [![](https://visitcount.itsvg.in/api?id=imsathiya17&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 # Hi there,
