@@ -13,4 +13,4 @@ Interested in AI, Blockchain, and Cloud based technologies.
 - 🏢 &nbsp;Full Stack & Data engineer & Designer.
 - 🌱 &nbsp;Currently learning Solidity.
 
-If you'd love to talk, just send me a email @ [email me](imsathiya17@gmail.com)
+If you'd love to talk, just send me a email to [imsathiya17@gmail.com](imsathiya17@gmail.com)
