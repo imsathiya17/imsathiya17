@@ -1,5 +1,4 @@
 <!-- GitHub Profile Cover Stats -->
-[![](https://visitcount.itsvg.in/api?id=imsathiya17&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 # 👋 Hi, I'm Sathiya
 
