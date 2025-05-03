@@ -1,16 +1,31 @@
-<!-- Add a cover image to your GitHub profile -->
-
+<!-- GitHub Profile Cover Stats -->
 [![](https://visitcount.itsvg.in/api?id=imsathiya17&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-# Hi there,
+# 👋 Hi, I'm Sathiya
 
-I'm a skilled data engineer and full-stack developer with a passion for technology. I excel at designing robust solutions and working with various programming languages, frameworks, and databases. 
+🚀 A passionate **Full-Stack Developer**, **Data Engineer**, and **Tech Explorer** on a journey to build, automate, and innovate across the stack.
 
-Outside of work, I enjoy music, tennis, and cricket. I'm open to opportunities for work, freelance projects, and collaborations.
+### 💡 About Me
+I'm a hands-on technologist with a strong foundation in data engineering, cloud infrastructure, and full-stack development. I thrive on creating scalable systems, automating workflows, and constantly experimenting with emerging tech.
 
-Interested in AI, Blockchain, and Cloud based technologies.
+- 🔧 Currently building smart systems and exploring **AI**, **Blockchain**, and **Cloud-native apps**.
+- 💾 Solid background in **databases**, **backend systems**, and **data pipelines**.
+- 🎨 Occasional designer with a love for clean, minimal UX.
 
-- 🏢 &nbsp;Full Stack & Data engineer & Designer.
-- 🌱 &nbsp;Currently learning Solidity.
+### 🧠 Currently Learning
+- 📜 **Solidity** & Smart Contract Development
+- 🤖 Advanced **AI/ML** Workflows & Agent-Based Systems
 
-If you'd love to talk, just send me a email to [imsathiya17@gmail.com](imsathiya17@gmail.com)
+### 📬 Let’s Connect
+I'm open to freelance projects, collaboration, or just a good tech chat.  
+📩 **imsathiya17@gmail.com**
+
+---
+
+### 🎯 Interests
+`#AI` `#Blockchain` `#Cloud` `#Automation` `#Data Engineering` `#DevTools` `#Quant Systems`
+
+---
+
+### 🎶 When I’m not coding...
+You’ll find me jamming to music, hitting a tennis ball, or catching a cricket match.
