@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Sathiya
 
-🚀 A passionate **Full-Stack Developer**, **Data Engineer**, and **Tech Explorer** on a journey to build, automate, and innovate across the stack.
+A passionate **Full-Stack Developer**, **Data Engineer**, and **Tech Explorer** on a journey to build, automate, and innovate across the stack.
 
 ### 💡 About Me
 I'm a hands-on technologist with a strong foundation in data engineering, cloud infrastructure, and full-stack development. I thrive on creating scalable systems, automating workflows, and constantly experimenting with emerging tech.
