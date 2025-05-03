@@ -16,7 +16,7 @@ A **full-stack developer** and **data engineer** who loves building smart, scala
 - **Solidity** and **Blockchain Fundamentals**  
 - Cloud-native tools and workflows  
 - End-to-end app development
-- 
+  
 ### 🌱 Currently Learning
 - **LLMs** & custom workflows  
 - **Autonomous AI Agents**
