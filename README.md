@@ -1,6 +1,8 @@
 <!-- GitHub Profile Cover Stats -->
 
-# 👋 Hello World, I'm Sathiya
+# 👋 Hello World, 
+
+I'm Sathiya
 
 A **full-stack developer** and **data engineer** who loves building smart, scalable systems. I enjoy working across the stack — from backend to UI — and diving deep into data pipelines and automation.
 
