@@ -44,5 +44,3 @@ I’m open to freelance gigs, collaborations, or just a tech chat!
 When I'm not building or learning new tech, you'll find me listening to music, playing tennis, or catching a game of cricket.
 
 **Let’s build something awesome together!**
-
-You can copy, tweak, or further personalize this as you wish. It frames you as a skilled, current, and approachable engineer—perfect for your GitHub profile!
